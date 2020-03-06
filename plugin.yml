@@ -1,0 +1,9 @@
+name: Anticheat
+api: 3.0.0
+version: 1.0.0
+main: radondev\ac\Main
+
+commands:
+  ac-test:
+    description: AC-test
+    usage: /ac-test
